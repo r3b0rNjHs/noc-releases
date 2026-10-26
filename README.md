@@ -10,8 +10,6 @@
 ![Windows 10/11](https://img.shields.io/badge/Windows-10%20%2F%2011-2b6cb0)
 ![ES · EN](https://img.shields.io/badge/idioma-ES%20%C2%B7%20EN-3a7d44)
 
-### [⬇ Descargar / Download — NarutoOnlineCompanion-setup.exe](https://github.com/r3b0rNjHs/noc-releases/releases/latest/download/NarutoOnlineCompanion-setup.exe)
-
 [Español](#español) · [English](#english)
 
 <img src="img/es-inicio.jpg" alt="Inicio de Naruto Online Companion" width="860">
