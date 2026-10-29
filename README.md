@@ -96,7 +96,6 @@ All credit for the data goes to its authors. If any source would rather not appe
 
 - [KonohaHub](https://konohahub.net): tier lists, top rankings, formation placement and breakthrough.
 - [Naruto Online Nexus](https://www.narutoonlinenexus.com): top arena formations per server, ninja usage and breakthrough priorities.
-- [Ninja Database v2](https://docs.google.com/spreadsheets/d/1JQPWpR8xMQ1SQuNq63w9s2h-AF1q8YUtNgSRjvNrmKM) (starbucks420): community guide to carries, supports and teams.
 - [Infinite Illusion Information](https://docs.google.com/spreadsheets/d/1gmfnIznMkfFoih6SSdbg2Fx7yHzEmR5GuZ_p3I2g-20): Infinite Illusion trials, teams and rewards.
 - [Free Ninjas](https://docs.google.com/spreadsheets/d/1d2Fgt-txx0QD1NzmkDTD2BZZbGKeWH7-tWKhwBd8B-k): free ninjas and how to get them.
 - [Breakthrough/Skill Break Frags](https://docs.google.com/document/d/16UHh1IjtwIKAqBEbQCVUS8b_8gUradBXrWtqQ40Jgbg) (KingJamboXIII) and [Ninja Assist Cards](https://docs.google.com/document/d/1DfJUtwxUB04zMSfBwzwT7978_6ZaHrJ7L0B-77W_e-o).
@@ -186,7 +185,6 @@ Todo el mérito de los datos es de sus autores. Si alguna fuente prefiere no apa
 
 - [KonohaHub](https://konohahub.net): tier lists, rankings del top, colocación de las formaciones y breakthrough.
 - [Naruto Online Nexus](https://www.narutoonlinenexus.com): formaciones top de arena por servidor, uso de cada ninja y prioridades de breakthrough.
-- [Ninja Database v2](https://docs.google.com/spreadsheets/d/1JQPWpR8xMQ1SQuNq63w9s2h-AF1q8YUtNgSRjvNrmKM) (starbucks420): guía comunitaria de carries, soportes y equipos.
 - [Infinite Illusion Information](https://docs.google.com/spreadsheets/d/1gmfnIznMkfFoih6SSdbg2Fx7yHzEmR5GuZ_p3I2g-20): pruebas, equipos y premios de Infinite Illusion.
 - [Free Ninjas](https://docs.google.com/spreadsheets/d/1d2Fgt-txx0QD1NzmkDTD2BZZbGKeWH7-tWKhwBd8B-k): ninjas gratis y cómo conseguirlos.
 - [Breakthrough/Skill Break Frags](https://docs.google.com/document/d/16UHh1IjtwIKAqBEbQCVUS8b_8gUradBXrWtqQ40Jgbg) (KingJamboXIII) y [Ninja Assist Cards](https://docs.google.com/document/d/1DfJUtwxUB04zMSfBwzwT7978_6ZaHrJ7L0B-77W_e-o).
