@@ -8,9 +8,12 @@
 [![Última versión](https://img.shields.io/github/v/release/r3b0rNjHs/noc-releases?label=versi%C3%B3n%20%2F%20version&color=c0392b)](https://github.com/r3b0rNjHs/noc-releases/releases/latest)
 [![Descargas](https://img.shields.io/github/downloads/r3b0rNjHs/noc-releases/total?label=descargas%20%2F%20downloads&color=6b4f3a)](https://github.com/r3b0rNjHs/noc-releases/releases)
 ![Windows 10/11](https://img.shields.io/badge/Windows-10%20%2F%2011-2b6cb0)
+![Android · iPhone · Mac](https://img.shields.io/badge/web-Android%20%C2%B7%20iPhone%20%C2%B7%20Mac-6b4f3a)
 ![ES · EN](https://img.shields.io/badge/idioma-ES%20%C2%B7%20EN-3a7d44)
 
-### [⬇ Download / Descargar — Releases](https://github.com/r3b0rNjHs/noc-releases/releases/latest)
+### [⬇ Windows: Download / Descargar — Releases](https://github.com/r3b0rNjHs/noc-releases/releases/latest)
+
+### [📱 Android · iPhone · Mac: open the web app / abrir la versión web](https://r3b0rnjhs.github.io/noc-releases/)
 
 [English](#english) · [Español](#español)
 
@@ -58,7 +61,17 @@ A Windows desktop app that helps you play **Naruto Online** better. Mark the nin
 1. Go to **[Releases](https://github.com/r3b0rNjHs/noc-releases/releases/latest)** (it always opens the latest version) and download **NarutoOnlineCompanion-setup.exe** from the file list (*Assets*).
 2. Run it. It installs for your user only (no admin rights needed) and adds a shortcut.
 3. If Windows says **"Windows protected your PC"**, click **"More info" → "Run anyway"**. It shows up because the app doesn't have a paid Microsoft signature; updates are signed (see below).
-4. On first launch, a short wizard asks for your main, level and power, then takes you to mark your ninjas.
+4. On first launch, a short wizard asks for your level, your power and whether you spend in the game, then takes you to mark your ninjas.
+
+### Android, iPhone and Mac (web app)
+
+The same app runs in the browser, with nothing to download: open **[the web app](https://r3b0rnjhs.github.io/noc-releases/)**.
+
+- **Android (Chrome):** menu ⋮ → **Install app** (or *Add to Home screen*).
+- **iPhone (Safari):** Share button → **Add to Home Screen**.
+- **Mac:** Safari → File → **Add to Dock**; Chrome or Edge → the install icon in the address bar.
+
+Once installed it opens like an app and also works offline. It updates itself every time you open it online. Your data stays on that device: to move it between your PC and your phone, use *Settings → Backup* (copy on one, restore on the other).
 
 ### Updates
 
@@ -76,7 +89,7 @@ A Windows desktop app that helps you play **Naruto Online** better. Mark the nin
 
 ### Requirements
 
-- Windows 10 or 11 (64-bit).
+- Windows 10 or 11 (64-bit), or the web app on any recent browser (Android, iPhone, Mac).
 - It uses Microsoft WebView2. Windows 11 already has it; on Windows 10 the installer downloads it if needed.
 
 ### Uninstall
@@ -144,7 +157,17 @@ Una app de escritorio para Windows que te ayuda a jugar mejor a **Naruto Online*
 1. Entra en **[Releases](https://github.com/r3b0rNjHs/noc-releases/releases/latest)** (siempre abre la última versión) y descarga **NarutoOnlineCompanion-setup.exe** de la lista de archivos (*Assets*).
 2. Ábrelo. Se instala solo para tu usuario (no pide permisos de administrador) y crea un acceso directo.
 3. Si Windows dice **«Windows protegió su PC»**, pulsa **«Más información» → «Ejecutar de todos modos»**. Sale porque la app no tiene firma de pago de Microsoft; las actualizaciones sí van firmadas (ver abajo).
-4. La primera vez, un asistente te pregunta tu main, tu nivel, tu poder y si gastas en el juego, y te lleva a marcar tus ninjas.
+4. La primera vez, un asistente te pregunta tu nivel, tu poder y si gastas en el juego, y te lleva a marcar tus ninjas.
+
+### Android, iPhone y Mac (versión web)
+
+La misma app funciona en el navegador, sin descargar nada: abre **[la versión web](https://r3b0rnjhs.github.io/noc-releases/)**.
+
+- **Android (Chrome):** menú ⋮ → **Instalar aplicación** (o *Añadir a pantalla de inicio*).
+- **iPhone (Safari):** botón Compartir → **Añadir a pantalla de inicio**.
+- **Mac:** Safari → Archivo → **Añadir al Dock**; Chrome o Edge → el icono de instalar de la barra de direcciones.
+
+Una vez instalada se abre como una app y funciona también sin conexión. Se actualiza sola cada vez que la abres con conexión. Tus datos se guardan en ese dispositivo: para pasarlos entre el PC y el móvil usa *Ajustes → Copia de seguridad* (copias en uno y recuperas en el otro).
 
 ### Actualizaciones
 
@@ -162,7 +185,7 @@ Una app de escritorio para Windows que te ayuda a jugar mejor a **Naruto Online*
 
 ### Requisitos
 
-- Windows 10 u 11 (64 bits).
+- Windows 10 u 11 (64 bits), o la versión web en cualquier navegador reciente (Android, iPhone, Mac).
 - Usa WebView2 de Microsoft. Windows 11 ya lo trae; en Windows 10 el instalador lo descarga si hace falta.
 
 ### Desinstalar
