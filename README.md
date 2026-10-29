@@ -13,7 +13,10 @@
 
 ### [⬇ Windows: Download / Descargar — Releases](https://github.com/r3b0rNjHs/noc-releases/releases/latest)
 
-### [📱 Android · iPhone · Mac: open the web app / abrir la versión web](https://r3b0rnjhs.github.io/noc-releases/)
+### [📱 Android · iPhone · Mac: open the web app / abrir la versión web](https://r3b0rnjhs.github.io/naruto-online-companion-web/)
+
+The web app lives in its own repository, **[naruto-online-companion-web](https://github.com/r3b0rNjHs/naruto-online-companion-web)**; this one has the Windows app and everything else.<br>
+La versión web vive en su propio repositorio, **[naruto-online-companion-web](https://github.com/r3b0rNjHs/naruto-online-companion-web)**; este tiene la app de Windows y todo lo demás.
 
 [English](#english) · [Español](#español)
 
@@ -65,7 +68,7 @@ A Windows desktop app that helps you play **Naruto Online** better. Mark the nin
 
 ### Android, iPhone and Mac (web app)
 
-The same app runs in the browser, with nothing to download: open **[the web app](https://r3b0rnjhs.github.io/noc-releases/)**.
+The same app runs in the browser, with nothing to download: open **[the web app](https://r3b0rnjhs.github.io/naruto-online-companion-web/)**.
 
 - **Android (Chrome):** menu ⋮ → **Install app** (or *Add to Home screen*).
 - **iPhone (Safari):** Share button → **Add to Home Screen**.
@@ -100,7 +103,7 @@ Once installed it opens like an app and also works offline. It updates itself ev
 
 - **Is it official?** No. It's a free, non-profit fan project.
 - **Is it free?** Yes, completely.
-- **Is there a mobile or Mac version?** Windows only, for now.
+- **Is there a mobile or Mac version?** Yes, the [web app](https://r3b0rnjhs.github.io/naruto-online-companion-web/) (see *Android, iPhone and Mac* above).
 - **Where does the data come from?** From the community sources below. The app's texts are written from them, and the app cites where each thing comes from and what is its own deduction.
 
 ### Sources and credits
@@ -161,7 +164,7 @@ Una app de escritorio para Windows que te ayuda a jugar mejor a **Naruto Online*
 
 ### Android, iPhone y Mac (versión web)
 
-La misma app funciona en el navegador, sin descargar nada: abre **[la versión web](https://r3b0rnjhs.github.io/noc-releases/)**.
+La misma app funciona en el navegador, sin descargar nada: abre **[la versión web](https://r3b0rnjhs.github.io/naruto-online-companion-web/)**.
 
 - **Android (Chrome):** menú ⋮ → **Instalar aplicación** (o *Añadir a pantalla de inicio*).
 - **iPhone (Safari):** botón Compartir → **Añadir a pantalla de inicio**.
@@ -196,7 +199,7 @@ Una vez instalada se abre como una app y funciona también sin conexión. Se act
 
 - **¿Es oficial?** No. Es un proyecto de fans, gratis y sin ánimo de lucro.
 - **¿Es gratis?** Sí, del todo.
-- **¿Hay versión para móvil o Mac?** De momento, solo Windows.
+- **¿Hay versión para móvil o Mac?** Sí, la [versión web](https://r3b0rnjhs.github.io/naruto-online-companion-web/) (ver *Android, iPhone y Mac* arriba).
 - **¿De dónde salen los datos?** De las fuentes de la comunidad de abajo. Los textos de la app están escritos a partir de ellas, y en la app se cita de dónde sale cada cosa y qué es deducción propia.
 
 ### Fuentes y créditos
